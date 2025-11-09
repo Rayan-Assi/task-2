@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 20px 20px !important;
+}
+
+.container{
+    width: 100vw !important;
+    margin: 20px 0px !important ;
+    display: flex !important;
+    flex-wrap: wrap !important ;
+    img{
+        width: 100% !important;
+        border-radius: 15px  !important;
+    }
+    
+}
+.container .card {
+    width: 220px  !important;
+    margin-right: 10px !important;
+    margin-bottom: 10px !important;
+    padding: 10px  !important;
+    border: 1px solid rgba(0, 0, 0, 0.552) !important;
+    border-radius: 15px  !important;
+}
+.fa-eye{
+    height: 20px !important;
+    color: rgba(0, 0, 0, 0.552) !important;
+    
+}
+.btn{
+    margin-top: 3px !important;
+}
